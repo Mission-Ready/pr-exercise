@@ -8,6 +8,8 @@ function App() {
       </h1>
       <ol>
         <li>Sebin Benjamin</li>
+        <li>Simon Li</li>
+        <li>David Bruner</li>
         <li>Adan Millard</li>
       </ol>
     </>
