@@ -7,6 +7,7 @@ function App() {
         <li>Simon Li</li>
         <li>David Bruner</li>
         <li>Adan Millard</li>
+        <li>NEISH WAS HERE</li>
       </ol>
     </>
   );
