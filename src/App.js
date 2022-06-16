@@ -9,6 +9,7 @@ function App() {
         <li>Adan Millard</li>
         <li>NEISH WAS HERE</li>
         <li>Prashant Kumar</li>
+        <li>Nick Wilson</li>
       </ol>
     </>
   );
