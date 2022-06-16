@@ -9,6 +9,8 @@ function App() {
       <ol>
         <li>Sebin Benjamin</li>
         <li>Simon Li</li>
+        <li>David Bruner</li>
+        <li>Brandon T</li>
       </ol>
     </>
   );
