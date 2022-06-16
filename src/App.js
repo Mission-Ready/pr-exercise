@@ -1,4 +1,5 @@
 function App() {
+
 	return (
 		<>
 			<h1> Add your names to the list below. Make sure you do not remove anybody elses name. :D </h1>
@@ -9,9 +10,14 @@ function App() {
         <li>Adan Millard</li>
         <li>NEISH WAS HERE</li>
         <li>Prashant Kumar</li>
+    
+    
+        <p>Avoiding other conflicts</p>
+        <li>Nirmal Patel</li>
       </ol>
     </>
   );
+
 }
 
 export default App;
