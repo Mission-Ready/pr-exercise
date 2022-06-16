@@ -8,7 +8,7 @@ function App() {
       </h1>
       <ol>
         <li>Sebin Benjamin</li>
-        <li>Brandon T</li>
+        <li>Simon Li</li>
       </ol>
     </>
   );
