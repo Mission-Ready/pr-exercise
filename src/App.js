@@ -6,6 +6,7 @@ function App() {
 				<li>Sebin Benjamin</li>
 				<li>Simon Li</li>
         <li>NEISH WAS HERE</li>
+        <li>David Bruner</li>
 			</ol>
 		</>
 	);
